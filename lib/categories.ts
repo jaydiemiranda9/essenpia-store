@@ -158,7 +158,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Disposable and reusable slippers in coral-fleece, waffle, and open-toe styles. Supplied in pack sizes from 10 to 200 pairs with OEM branding.",
     imageUrl:
-      "https://images.unsplash.com/photo-1697121177534-2ff4485563fa?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1654401574155-03442ee73114?w=800&q=80&auto=format&fit=crop",
     productCount: 14,
   },
   {
@@ -168,7 +168,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Sheets, duvet covers, pillows, and mattress pads in hospitality-grade cotton — woven for comfort, built for industrial laundering.",
     imageUrl:
-      "https://images.unsplash.com/photo-1759264244726-adde4e4318fc?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559841644-08984562005a?w=800&q=80&auto=format&fit=crop",
     productCount: 10,
     subCategories: [
       {
@@ -191,7 +191,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Bath towels, hand towels, face towels, bath mats, and pool towels spun from long-staple cotton — plush on day one, resilient at 300 washes.",
     imageUrl:
-      "https://images.unsplash.com/photo-1760722974657-f64bce2f9cc5?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1684248655527-46bee8e79029?w=800&q=80&auto=format&fit=crop",
     productCount: 7,
     subCategories: [
       { slug: "bath-towel", name: "Bath Towels", categorySlug: "towels" },
