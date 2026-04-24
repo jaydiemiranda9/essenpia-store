@@ -8,7 +8,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Chairs, sofas, and tables engineered for hotel contract use. Hardwood frames, stain-resistant upholstery, and silhouettes curated for lobbies, suites, and F&B floors.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/HFC0014-1.jpg",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80&auto=format&fit=crop",
     productCount: 61,
     subCategories: [
       { slug: "chair", name: "Chairs", categorySlug: "hospitality-furniture" },
@@ -23,7 +23,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Sculptural accents, figurines, and styling pieces that signal care in every corner — from reception desks to suite consoles.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/Gold-Pineapple-Figurine.jpg",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=800&q=80&auto=format&fit=crop",
     productCount: 27,
   },
   {
@@ -33,7 +33,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Guest kits, dental sets, and bath essentials pre-packed for effortless turnover. Customizable branding and volumes from 20 to 500 packs.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/04/Hotel-Amenity-Kit-Tiffany-4.png",
+      "https://images.unsplash.com/photo-1750271336429-8b0a507785c0?w=800&q=80&auto=format&fit=crop",
     productCount: 44,
     subCategories: [
       {
@@ -65,7 +65,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Purpose-built bedroom essentials — from velvet-soft hangers to branded laundry bags — designed to feel as intentional as the suite itself.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/08/Laundry-Bag.jpg",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80&auto=format&fit=crop",
     productCount: 2,
     subCategories: [
       { slug: "hanger", name: "Hangers", categorySlug: "bedroom-amenities" },
@@ -83,7 +83,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Cups, mugs, glassware, and cutlery built to the demands of daily service — timeless shapes, commercial-grade durability.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/Glass-Cup.jpg",
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80&auto=format&fit=crop",
     productCount: 7,
     subCategories: [
       { slug: "cup", name: "Cups", categorySlug: "tableware" },
@@ -99,7 +99,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Housekeeping, laundry, luggage, and utility trolleys with reinforced frames, smooth castors, and the ergonomics that shave minutes off every turn.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/Housekeeping-Cart.jpg",
+      "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?w=800&q=80&auto=format&fit=crop",
     productCount: 7,
     subCategories: [
       {
@@ -131,7 +131,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Kettles and in-room appliances chosen for longevity, safety, and a finish that never cheapens the suite.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/Electric-Kettle.jpg",
+      "https://images.unsplash.com/photo-1643114938504-370d9376e946?w=800&q=80&auto=format&fit=crop",
     productCount: 4,
     subCategories: [
       {
@@ -148,7 +148,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Biodegradable, recycled, and responsibly sourced hospitality supplies that align with ESG commitments and the discerning modern guest.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/Eco-Toothbrush.jpg",
+      "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&q=80&auto=format&fit=crop",
     productCount: 8,
   },
   {
@@ -158,7 +158,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Disposable and reusable slippers in coral-fleece, waffle, and open-toe styles. Supplied in pack sizes from 10 to 200 pairs with OEM branding.",
     imageUrl:
-      "https://i0.wp.com/www.essenpia.com/wp-content/uploads/2024/04/WEB-Hotel-Slippers-S-White-1.png?fit=1080%2C1080&ssl=1",
+      "https://images.unsplash.com/photo-1697121177534-2ff4485563fa?w=800&q=80&auto=format&fit=crop",
     productCount: 14,
   },
   {
@@ -168,7 +168,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Sheets, duvet covers, pillows, and mattress pads in hospitality-grade cotton — woven for comfort, built for industrial laundering.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/Bed-Linen-Set.jpg",
+      "https://images.unsplash.com/photo-1759264244726-adde4e4318fc?w=800&q=80&auto=format&fit=crop",
     productCount: 10,
     subCategories: [
       {
@@ -191,7 +191,7 @@ export const CATEGORIES: Category[] = [
     description:
       "Bath towels, hand towels, face towels, bath mats, and pool towels spun from long-staple cotton — plush on day one, resilient at 300 washes.",
     imageUrl:
-      "https://www.essenpia.com/wp-content/uploads/2024/09/Bath-Towel.jpg",
+      "https://images.unsplash.com/photo-1760722974657-f64bce2f9cc5?w=800&q=80&auto=format&fit=crop",
     productCount: 7,
     subCategories: [
       { slug: "bath-towel", name: "Bath Towels", categorySlug: "towels" },

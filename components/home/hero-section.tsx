@@ -11,8 +11,8 @@ export function HeroSection() {
       />
       <div className="absolute right-0 top-0 hidden h-full w-1/2 lg:block">
         <Image
-          src="https://www.essenpia.com/wp-content/uploads/2024/09/HFC0014-1.jpg"
-          alt="Essenpia hospitality chair in a boutique hotel lobby"
+          src="https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=1400&q=85&auto=format&fit=crop"
+          alt="Luxury hotel room interior with elegant furnishings by Essenpia"
           fill
           priority
           sizes="(min-width: 1024px) 50vw, 0px"

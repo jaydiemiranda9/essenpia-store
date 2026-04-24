@@ -320,8 +320,8 @@ export const PRODUCTS: Product[] = [
     name: "Guest Amenity Kit — Tiffany, 500 packs",
     categorySlug: "bathroom-amenities",
     subCategorySlug: "guest-amenity-kit",
-    imageUrl: ESSENPIA("2024/04/Hotel-Amenity-Kit-Tiffany-4.png"),
-    imageAlt: "Tiffany-blue hotel guest amenity kit",
+    imageUrl: UNSPLASH("1607006344380-b6775a2a74f8"),
+    imageAlt: "Tiffany-blue hotel guest amenity kit with toiletries",
     description:
       "Our best-selling hotel-grade amenity kit in signature Tiffany blue. Each sachet contains shampoo, conditioner, body wash, and lotion — sealed, hygienic, and branded to your spec at volume.",
     features: [
@@ -338,7 +338,7 @@ export const PRODUCTS: Product[] = [
     name: "Guest Amenity Kit — Tiffany, 100 packs",
     categorySlug: "bathroom-amenities",
     subCategorySlug: "guest-amenity-kit",
-    imageUrl: ESSENPIA("2024/04/Hotel-Amenity-Kit-Tiffany-3.png"),
+    imageUrl: UNSPLASH("1556909185-c7b4a47c3b79"),
     imageAlt: "Tiffany-blue amenity kits in 100-pack carton",
     description:
       "The signature Tiffany amenity kit in a right-sized 100-pack carton for mid-size properties and trial runs ahead of full-volume commitments.",
@@ -355,7 +355,7 @@ export const PRODUCTS: Product[] = [
     name: "Guest Amenity Kit — Slant B, 500 packs",
     categorySlug: "bathroom-amenities",
     subCategorySlug: "guest-amenity-kit",
-    imageUrl: ESSENPIA("2024/04/WEB-Hotel-Guest-Amenity-Kit-Slash-B-4.png"),
+    imageUrl: UNSPLASH("1526045431049-ab60a9f9fa60"),
     imageAlt: "Slant-style hotel amenity kit, minimal black packaging",
     description:
       "A minimalist slant-form amenity kit for design-led properties. Matte black sleeves, generous fill volumes, and a clean typographic lockup.",
@@ -372,7 +372,7 @@ export const PRODUCTS: Product[] = [
     name: "Dental Kit B — 500 packs",
     categorySlug: "bathroom-amenities",
     subCategorySlug: "dental-kit",
-    imageUrl: ESSENPIA("2024/05/Hotel-Toothpaste-5g-1.png"),
+    imageUrl: UNSPLASH("1559591937-abc3a57a3fb4"),
     imageAlt: "Hotel dental kit with toothbrush and 5g toothpaste",
     description:
       "A sealed dental kit for turndown service — a compact toothbrush and 5 g toothpaste in branded, paper-forward packaging.",
@@ -389,7 +389,7 @@ export const PRODUCTS: Product[] = [
     name: "Dental Kit A — 500 packs",
     categorySlug: "bathroom-amenities",
     subCategorySlug: "dental-kit",
-    imageUrl: ESSENPIA("2024/04/Hotel-Toothpaste-3g-1.png"),
+    imageUrl: UNSPLASH("1559591937-abc3a57a3fb4"),
     imageAlt: "Compact hotel dental kit with 3g toothpaste",
     description:
       "Our most efficient dental kit — designed for high-turnover properties where every gram and every peso counts. 3 g toothpaste keeps unit cost sharp without compromising trust.",
@@ -406,7 +406,7 @@ export const PRODUCTS: Product[] = [
     name: "Hotel Toothpaste 5g — 100 pcs",
     categorySlug: "bathroom-amenities",
     subCategorySlug: "toothpaste",
-    imageUrl: ESSENPIA("2024/05/Hotel-Toothpaste-5g-1.png"),
+    imageUrl: UNSPLASH("1567723303822-0a27a8f77ea3"),
     imageAlt: "5g hotel toothpaste sachets in a 100 pack",
     description:
       "Branded 5 g toothpaste for standalone amenity trays and turndown service. Fluoride formulation, mint flavor, and a sealed aluminum-foil pouch.",
@@ -423,8 +423,8 @@ export const PRODUCTS: Product[] = [
     name: "Hotel Toothpaste 10g — 100 pcs",
     categorySlug: "bathroom-amenities",
     subCategorySlug: "toothpaste",
-    imageUrl: ESSENPIA("2024/05/Hotel-Toothpaste-10g-1.png"),
-    imageAlt: "10g hotel toothpaste sachets",
+    imageUrl: UNSPLASH("1567723303822-0a27a8f77ea3"),
+    imageAlt: "10g hotel toothpaste sachets for extended stays",
     description:
       "Generous-fill 10 g toothpaste for extended stays and suite-level service. Supports multi-night use without reorder.",
     features: [
@@ -491,7 +491,7 @@ export const PRODUCTS: Product[] = [
     name: "Velvet Clothes Hanger — Set of 10",
     categorySlug: "bedroom-amenities",
     subCategorySlug: "hanger",
-    imageUrl: UNSPLASH("1558618666-fcd25c85cd64"),
+    imageUrl: UNSPLASH("1558618047-3de7a3a16da8"),
     imageAlt: "Set of black velvet-flocked clothes hangers",
     description:
       "A ten-piece velvet-flocked hanger set in hotel-signature black. Slim profile to double closet capacity in compact suites; non-slip surface to protect guest silks.",
@@ -508,7 +508,7 @@ export const PRODUCTS: Product[] = [
     name: "Classic Wooden Hanger — Set of 10",
     categorySlug: "bedroom-amenities",
     subCategorySlug: "hanger",
-    imageUrl: UNSPLASH("1558618666-fcd25c85cd64"),
+    imageUrl: UNSPLASH("1600585774494-6ab5e8083ab6"),
     imageAlt: "Set of natural wood hangers with brushed gold hooks",
     description:
       "A ten-piece classic wooden hanger set in natural beech with brushed-gold hooks. A warm, grounded presence in wardrobes that signals considered detail.",
